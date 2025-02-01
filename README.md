@@ -30,7 +30,7 @@ cd crop-fertilizer-recommendation
 
 ### 3️⃣ Open Jupyter Notebook
 ```bash
-OPEN Recommendation.ipynb 
+Open Recommendation.ipynb 
 ```
 Then, run the provided notebook file.
 
